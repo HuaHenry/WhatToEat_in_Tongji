@@ -1,0 +1,2 @@
+# WhatToEat_in_Tongji
+同济大学EATJ项目组开发的简单桌面应用程序，实现随机就餐决策功能
